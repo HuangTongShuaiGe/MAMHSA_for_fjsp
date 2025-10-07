@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/FJSP" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/FJSP_Env.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Nets.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PPO_model.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Params.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/draw_gannt.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/models/Dauzere/18a.pt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/read_instance.py" charset="GBK" />
+  </component>
+</project>
